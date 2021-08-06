@@ -1,0 +1,308 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1365.191" height="1217.662" viewBox="0 0 1365.191 1217.662">
+  <defs>
+    <filter id="Rectangle_77" x="671.183" y="199.03" width="694.008" height="510.93" filterUnits="userSpaceOnUse">
+      <feOffset dy="25" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_77-2" x="633.667" y="199.03" width="694.008" height="510.93" filterUnits="userSpaceOnUse">
+      <feOffset dy="25" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_187" x="799.488" y="811.291" width="525.936" height="394.63" filterUnits="userSpaceOnUse">
+      <feOffset dy="25" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-3"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_312" x="772.476" y="811.291" width="525.936" height="394.63" filterUnits="userSpaceOnUse">
+      <feOffset dy="25" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-4"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1" y1="0.377" x2="0" y2="0.377" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.322" stop-color="#fdfdfd" stop-opacity="0"/>
+      <stop offset="1" stop-color="#dadada"/>
+    </linearGradient>
+    <filter id="Case" x="0" y="0" width="749.838" height="1217.662" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_100" data-name="Group 100" transform="translate(164.088 -1321.5)">
+    <g id="Group_96" data-name="Group 96" transform="translate(514.579 1540.53)">
+      <g transform="matrix(1, 0, 0, 1, -678.67, -219.03)" filter="url(#Rectangle_77)">
+        <rect id="Rectangle_77-3" data-name="Rectangle 77" width="604.008" height="420.93" rx="10" transform="translate(716.18 219.03)" fill="#fff"/>
+      </g>
+      <text id="RECENT_REPORT" data-name="RECENT REPORT" transform="translate(58.525 32.759)" fill="#707070" font-size="11" font-family="Montserrat-Medium, Montserrat" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">RECENT REPORT</tspan></text>
+      <g id="Group_81" data-name="Group 81" transform="translate(99.835 91.293)">
+        <line id="Line_56" data-name="Line 56" y2="224.229" fill="none" stroke="#ebebeb" stroke-width="1"/>
+        <line id="Line_57" data-name="Line 57" x2="501.124" transform="translate(0 224.229)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+        <line id="Line_58" data-name="Line 58" x2="501.124" transform="translate(0 186.857)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+        <line id="Line_59" data-name="Line 59" x2="501.124" transform="translate(0 149.486)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+        <line id="Line_60" data-name="Line 60" x2="501.124" transform="translate(0 112.114)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+        <line id="Line_61" data-name="Line 61" x2="501.124" transform="translate(0 74.743)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+        <line id="Line_62" data-name="Line 62" x2="501.124" transform="translate(0 37.371)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+        <line id="Line_63" data-name="Line 63" x2="501.124" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      </g>
+      <text id="_0" data-name="0" transform="translate(69.029 321.132)" fill="#707070" font-size="12" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">0</tspan></text>
+      <text id="Jan" transform="translate(88.538 335.889)" fill="#707070" font-size="11" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">Jan</tspan></text>
+      <text id="Feb" transform="translate(162.819 336.889)" fill="#707070" font-size="12" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">Feb</tspan></text>
+      <text id="March" transform="translate(222.845 336.889)" fill="#707070" font-size="12" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">March</tspan></text>
+      <text id="April" transform="translate(294.876 335.889)" fill="#707070" font-size="11" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">April</tspan></text>
+      <text id="May" transform="translate(371.408 335.889)" fill="#707070" font-size="11" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">May</tspan></text>
+      <text id="June" transform="translate(446.44 335.889)" fill="#707070" font-size="11" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">June</tspan></text>
+      <text id="July" transform="translate(522.973 335.889)" fill="#707070" font-size="11" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">July</tspan></text>
+      <text id="Aug" transform="translate(581.498 335.889)" fill="#707070" font-size="11" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">Aug</tspan></text>
+      <text id="_10" data-name="10" transform="translate(69.029 282.866)" fill="#707070" font-size="12" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">10</tspan></text>
+      <text id="_20" data-name="20" transform="translate(69.029 246.1)" fill="#707070" font-size="12" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">20</tspan></text>
+      <text id="_30" data-name="30" transform="translate(69.029 209.334)" fill="#707070" font-size="12" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">30</tspan></text>
+      <text id="_40" data-name="40" transform="translate(69.029 171.818)" fill="#707070" font-size="12" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">40</tspan></text>
+      <text id="_50" data-name="50" transform="translate(69.029 135.052)" fill="#707070" font-size="12" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">50</tspan></text>
+      <text id="_60" data-name="60" transform="translate(69.029 96.536)" fill="#707070" font-size="11" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">60</tspan></text>
+      <ellipse id="Ellipse_52" data-name="Ellipse 52" cx="4.127" cy="4.502" rx="4.127" ry="4.502" transform="translate(96.041 216.842)" fill="#4791ff"/>
+      <ellipse id="Ellipse_53" data-name="Ellipse 53" cx="4.502" cy="4.127" rx="4.502" ry="4.127" transform="translate(169.572 151.565)" fill="#4791ff"/>
+      <ellipse id="Ellipse_54" data-name="Ellipse 54" cx="4.127" cy="4.502" rx="4.127" ry="4.502" transform="translate(241.603 184.579)" fill="#4791ff"/>
+      <circle id="Ellipse_55" data-name="Ellipse 55" cx="4.127" cy="4.127" r="4.127" transform="translate(312.883 151.565)" fill="#4791ff"/>
+      <ellipse id="Ellipse_56" data-name="Ellipse 56" cx="4.127" cy="4.502" rx="4.127" ry="4.502" transform="translate(383.414 216.842)" fill="#4791ff"/>
+      <circle id="Ellipse_57" data-name="Ellipse 57" cx="4.127" cy="4.127" r="4.127" transform="translate(454.694 249.106)" fill="#4791ff"/>
+      <ellipse id="Ellipse_58" data-name="Ellipse 58" cx="4.127" cy="4.502" rx="4.127" ry="4.502" transform="translate(531.977 184.579)" fill="#4791ff"/>
+      <circle id="Ellipse_59" data-name="Ellipse 59" cx="4.127" cy="4.127" r="4.127" transform="translate(595.754 151.565)" fill="#4791ff"/>
+      <g id="Group_79" data-name="Group 79" transform="translate(96.041 152.315)">
+        <ellipse id="Ellipse_60" data-name="Ellipse 60" cx="4.127" cy="4.502" rx="4.127" ry="4.502" transform="translate(499.713 95.291)" fill="#02bc77"/>
+        <circle id="Ellipse_61" data-name="Ellipse 61" cx="4.127" cy="4.127" r="4.127" transform="translate(358.653 62.277)" fill="#02bc77"/>
+        <ellipse id="Ellipse_62" data-name="Ellipse 62" cx="4.127" cy="4.502" rx="4.127" ry="4.502" transform="translate(287.373 0)" fill="#02bc77"/>
+        <ellipse id="Ellipse_63" data-name="Ellipse 63" cx="4.127" cy="4.502" rx="4.127" ry="4.502" transform="translate(216.842 30.763)" fill="#02bc77"/>
+        <circle id="Ellipse_64" data-name="Ellipse 64" cx="4.127" cy="4.127" r="4.127" transform="translate(145.562 96.791)" fill="#02bc77"/>
+        <ellipse id="Ellipse_65" data-name="Ellipse 65" cx="4.127" cy="4.502" rx="4.127" ry="4.502" transform="translate(72.781 64.528)" fill="#02bc77"/>
+        <ellipse id="Ellipse_66" data-name="Ellipse 66" cx="4.127" cy="3.752" rx="4.127" ry="3.752" transform="translate(0 129.055)" fill="#02bc77"/>
+      </g>
+      <line id="Line_105" data-name="Line 105" x2="604.008" transform="translate(37.516 57.775)" fill="none" stroke="#efefef" stroke-width="1"/>
+      <line id="Line_106" data-name="Line 106" x2="604.008" transform="translate(37.516 361.654)" fill="none" stroke="#efefef" stroke-width="1"/>
+      <path id="Path_380" data-name="Path 380" d="M222.032,1012.1s44.494-65.169,71.656-65.169,46.326,35.04,70.59,33.063,44.672-63.659,71.695-64.152,50.184-32.564,71.693-32.076,47.978,62.674,72.245,63.162,49.644-31.848,71.693-31.09,71.142,64.152,71.142,64.152" transform="translate(-121.663 -727.406)" fill="none" stroke="#02bc77" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_379" data-name="Path 379" d="M223.031,760.063s43.669-64.688,72.278-64.688,53.4,32.987,70.5,32.987,41.172-31.95,69.3-32.987,53.667,64.805,74.619,64.688,57.246,30.971,71.13,30.971,42.5-60.622,71.13-62.677,71.68-34.392,72.233-32.987" transform="translate(-121.595 -539.434)" fill="none" stroke="#4791ff" stroke-miterlimit="10" stroke-width="2"/>
+      <g transform="matrix(1, 0, 0, 1, -678.67, -219.03)" filter="url(#Rectangle_77-2)">
+        <rect id="Rectangle_77-4" data-name="Rectangle 77" width="604.008" height="420.93" rx="10" transform="translate(678.67 219.03)" fill="#fff"/>
+      </g>
+      <text id="RECENT_REPORT-2" data-name="RECENT REPORT" transform="translate(21.759 32.759)" fill="#707070" font-size="11" font-family="Montserrat-Medium, Montserrat" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">RECENT REPORT</tspan></text>
+      <g id="Group_81-2" data-name="Group 81" transform="translate(62.463 91.293)">
+        <line id="Line_56-2" data-name="Line 56" y2="224.229" fill="none" stroke="#ebebeb" stroke-width="1"/>
+        <line id="Line_57-2" data-name="Line 57" x2="501.124" transform="translate(0 224.229)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+        <line id="Line_58-2" data-name="Line 58" x2="501.124" transform="translate(0 186.857)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+        <line id="Line_59-2" data-name="Line 59" x2="501.124" transform="translate(0 149.486)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+        <line id="Line_60-2" data-name="Line 60" x2="501.124" transform="translate(0 112.114)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+        <line id="Line_61-2" data-name="Line 61" x2="501.124" transform="translate(0 74.743)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+        <line id="Line_62-2" data-name="Line 62" x2="501.124" transform="translate(0 37.371)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+        <line id="Line_63-2" data-name="Line 63" x2="501.124" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      </g>
+      <text id="_0-2" data-name="0" transform="translate(32.264 321.132)" fill="#707070" font-size="12" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">0</tspan></text>
+      <text id="Jan-2" data-name="Jan" transform="translate(51.022 335.889)" fill="#707070" font-size="11" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">Jan</tspan></text>
+      <text id="Feb-2" data-name="Feb" transform="translate(124.553 336.889)" fill="#707070" font-size="12" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">Feb</tspan></text>
+      <text id="March-2" data-name="March" transform="translate(186.079 336.889)" fill="#707070" font-size="12" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">March</tspan></text>
+      <text id="April-2" data-name="April" transform="translate(257.36 335.889)" fill="#707070" font-size="11" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">April</tspan></text>
+      <text id="May-2" data-name="May" transform="translate(333.892 335.889)" fill="#707070" font-size="11" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">May</tspan></text>
+      <text id="June-2" data-name="June" transform="translate(408.924 335.889)" fill="#707070" font-size="11" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">June</tspan></text>
+      <text id="July-2" data-name="July" transform="translate(486.207 335.889)" fill="#707070" font-size="11" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">July</tspan></text>
+      <text id="Aug-2" data-name="Aug" transform="translate(544.732 335.889)" fill="#707070" font-size="11" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">Aug</tspan></text>
+      <text id="_10-2" data-name="10" transform="translate(32.264 282.866)" fill="#707070" font-size="12" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">10</tspan></text>
+      <text id="_20-2" data-name="20" transform="translate(32.264 246.1)" fill="#707070" font-size="12" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">20</tspan></text>
+      <text id="_30-2" data-name="30" transform="translate(32.264 209.334)" fill="#707070" font-size="12" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">30</tspan></text>
+      <text id="_40-2" data-name="40" transform="translate(32.264 171.818)" fill="#707070" font-size="12" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">40</tspan></text>
+      <text id="_50-2" data-name="50" transform="translate(32.264 135.052)" fill="#707070" font-size="12" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">50</tspan></text>
+      <text id="_60-2" data-name="60" transform="translate(32.264 96.536)" fill="#707070" font-size="11" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">60</tspan></text>
+      <circle id="Ellipse_52-2" data-name="Ellipse 52" cx="4.502" cy="4.502" r="4.502" transform="translate(58.525 216.842)" fill="#4791ff"/>
+      <ellipse id="Ellipse_53-2" data-name="Ellipse 53" cx="4.502" cy="4.127" rx="4.502" ry="4.127" transform="translate(132.056 151.565)" fill="#4791ff"/>
+      <ellipse id="Ellipse_54-2" data-name="Ellipse 54" cx="4.127" cy="4.502" rx="4.127" ry="4.502" transform="translate(204.087 184.579)" fill="#4791ff"/>
+      <ellipse id="Ellipse_55-2" data-name="Ellipse 55" cx="4.502" cy="4.127" rx="4.502" ry="4.127" transform="translate(275.367 151.565)" fill="#4791ff"/>
+      <circle id="Ellipse_56-2" data-name="Ellipse 56" cx="4.502" cy="4.502" r="4.502" transform="translate(345.898 216.842)" fill="#4791ff"/>
+      <circle id="Ellipse_57-2" data-name="Ellipse 57" cx="4.127" cy="4.127" r="4.127" transform="translate(417.928 249.106)" fill="#4791ff"/>
+      <ellipse id="Ellipse_58-2" data-name="Ellipse 58" cx="4.127" cy="4.502" rx="4.127" ry="4.502" transform="translate(494.461 184.579)" fill="#4791ff"/>
+      <ellipse id="Ellipse_59-2" data-name="Ellipse 59" cx="4.502" cy="4.127" rx="4.502" ry="4.127" transform="translate(558.238 151.565)" fill="#4791ff"/>
+      <g id="Group_79-2" data-name="Group 79" transform="translate(58.525 152.315)">
+        <circle id="Ellipse_60-2" data-name="Ellipse 60" cx="4.502" cy="4.502" r="4.502" transform="translate(499.713 95.291)" fill="#02bc77"/>
+        <circle id="Ellipse_61-2" data-name="Ellipse 61" cx="4.127" cy="4.127" r="4.127" transform="translate(359.403 62.277)" fill="#02bc77"/>
+        <circle id="Ellipse_62-2" data-name="Ellipse 62" cx="4.502" cy="4.502" r="4.502" transform="translate(287.373 0)" fill="#02bc77"/>
+        <circle id="Ellipse_63-2" data-name="Ellipse 63" cx="4.502" cy="4.502" r="4.502" transform="translate(216.842 30.763)" fill="#02bc77"/>
+        <circle id="Ellipse_64-2" data-name="Ellipse 64" cx="4.127" cy="4.127" r="4.127" transform="translate(145.562 96.791)" fill="#02bc77"/>
+        <ellipse id="Ellipse_65-2" data-name="Ellipse 65" cx="4.127" cy="4.502" rx="4.127" ry="4.502" transform="translate(72.781 64.528)" fill="#02bc77"/>
+        <ellipse id="Ellipse_66-2" data-name="Ellipse 66" cx="4.502" cy="3.752" rx="4.502" ry="3.752" transform="translate(0 129.055)" fill="#02bc77"/>
+      </g>
+      <line id="Line_105-2" data-name="Line 105" x2="604.008" transform="translate(0 57.775)" fill="none" stroke="#efefef" stroke-width="1"/>
+      <line id="Line_106-2" data-name="Line 106" x2="604.008" transform="translate(0 361.654)" fill="none" stroke="#efefef" stroke-width="1"/>
+      <path id="Path_380-2" data-name="Path 380" d="M222.032,1012.1s44.494-65.169,71.656-65.169,46.326,35.04,70.59,33.063,44.672-63.659,71.695-64.152,50.184-32.564,71.693-32.076,47.978,62.674,72.245,63.162,49.644-31.848,71.693-31.09,71.142,64.152,71.142,64.152" transform="translate(-159.034 -727.406)" fill="none" stroke="#02bc77" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_379-2" data-name="Path 379" d="M223.031,760.063s43.669-64.688,72.278-64.688,53.4,32.987,70.5,32.987,41.172-31.95,69.3-32.987,53.667,64.805,74.619,64.688,57.246,30.971,71.13,30.971,42.5-60.622,71.13-62.677,71.68-34.392,72.233-32.987" transform="translate(-158.966 -539.434)" fill="none" stroke="#4791ff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g id="Group_98" data-name="Group 98" transform="translate(653.388 2152.791)">
+      <g transform="matrix(1, 0, 0, 1, -817.48, -831.29)" filter="url(#Rectangle_187)">
+        <rect id="Rectangle_187-2" data-name="Rectangle 187" width="435.936" height="304.63" rx="10" transform="translate(844.49 831.29)" fill="#fff"/>
+      </g>
+      <text id="Tasks" transform="translate(42.018 23.757)" fill="#707070" font-size="8" font-family="Montserrat-Medium, Montserrat" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">Tasks</tspan></text>
+      <line id="Line_93" data-name="Line 93" y2="162.308" transform="translate(72.017 67.316)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      <line id="Line_94" data-name="Line 94" x2="368.333" transform="translate(72.017 229.147)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      <line id="Line_95" data-name="Line 95" x2="368.333" transform="translate(72.017 196.797)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      <line id="Line_97" data-name="Line 97" x2="368.333" transform="translate(72.017 132.096)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      <line id="Line_99" data-name="Line 99" x2="368.333" transform="translate(72.017 67.396)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      <line id="Line_96" data-name="Line 96" x2="368.333" transform="translate(72.017 164.446)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      <line id="Line_98" data-name="Line 98" x2="368.333" transform="translate(72.017 99.746)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      <rect id="Rectangle_191" data-name="Rectangle 191" width="6.16" height="80.662" transform="translate(101.672 148.656)" fill="#4791ff"/>
+      <rect id="Rectangle_246" data-name="Rectangle 246" width="6.16" height="102.228" transform="translate(170.993 127.09)" fill="#4791ff"/>
+      <rect id="Rectangle_250" data-name="Rectangle 250" width="6.16" height="119.173" transform="translate(240.316 110.145)" fill="#4791ff"/>
+      <rect id="Rectangle_254" data-name="Rectangle 254" width="6.16" height="136.889" transform="translate(306.556 92.429)" fill="#4791ff"/>
+      <rect id="Rectangle_258" data-name="Rectangle 258" width="6.16" height="159.996" transform="translate(377.419 69.321)" fill="#4791ff"/>
+      <rect id="Rectangle_192" data-name="Rectangle 192" width="6.16" height="16.175" transform="translate(112.829 213.357)" fill="#ff2366"/>
+      <rect id="Rectangle_247" data-name="Rectangle 247" width="6.16" height="28.499" transform="translate(182.151 201.033)" fill="#ff2366"/>
+      <rect id="Rectangle_251" data-name="Rectangle 251" width="6.16" height="33.12" transform="translate(251.472 196.411)" fill="#ff2366"/>
+      <rect id="Rectangle_255" data-name="Rectangle 255" width="6.16" height="28.499" transform="translate(317.713 201.033)" fill="#ff2366"/>
+      <rect id="Rectangle_259" data-name="Rectangle 259" width="6.16" height="17.715" transform="translate(388.575 211.816)" fill="#ff2366"/>
+      <rect id="Rectangle_193" data-name="Rectangle 193" width="6.16" height="26.958" transform="translate(123.947 202.572)" fill="#02bc77"/>
+      <rect id="Rectangle_248" data-name="Rectangle 248" width="6.16" height="80.875" transform="translate(193.268 148.655)" fill="#02bc77"/>
+      <rect id="Rectangle_252" data-name="Rectangle 252" width="6.16" height="92.429" transform="translate(262.59 137.102)" fill="#02bc77"/>
+      <rect id="Rectangle_256" data-name="Rectangle 256" width="6.16" height="109.374" transform="translate(328.831 120.156)" fill="#02bc77"/>
+      <rect id="Rectangle_260" data-name="Rectangle 260" width="6.16" height="137.103" transform="translate(399.693 92.427)" fill="#02bc77"/>
+      <rect id="Rectangle_245" data-name="Rectangle 245" width="6.16" height="46.214" transform="translate(134.89 183.318)" fill="#ffd950"/>
+      <rect id="Rectangle_249" data-name="Rectangle 249" width="6.16" height="23.107" transform="translate(204.212 206.424)" fill="#ffd950"/>
+      <rect id="Rectangle_253" data-name="Rectangle 253" width="6.16" height="33.12" transform="translate(273.533 196.411)" fill="#ffd950"/>
+      <rect id="Rectangle_257" data-name="Rectangle 257" width="6.16" height="53.147" transform="translate(339.773 176.385)" fill="#ffd950"/>
+      <rect id="Rectangle_261" data-name="Rectangle 261" width="6.16" height="26.958" transform="translate(410.636 202.574)" fill="#ffd950"/>
+      <text id="_0-3" data-name="0" transform="translate(54.687 231.27)" fill="#707070" font-size="8" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">0</tspan></text>
+      <text id="_20-3" data-name="20" transform="translate(50.271 196.58)" fill="#707070" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">20</tspan></text>
+      <text id="_2017" data-name="2017" transform="translate(250.607 242.351)" fill="#707070" font-size="6" font-family="Montserrat-Medium, Montserrat" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">2017</tspan></text>
+      <text id="_2018" data-name="2018" transform="translate(318.886 242.351)" fill="#707070" font-size="6" font-family="Montserrat-Medium, Montserrat" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">2018</tspan></text>
+      <text id="_2019" data-name="2019" transform="translate(387.915 242.351)" fill="#707070" font-size="6" font-family="Montserrat-Medium, Montserrat" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">2019</tspan></text>
+      <text id="_2015" data-name="2015" transform="translate(111.798 242.351)" fill="#707070" font-size="6" font-family="Montserrat-Medium, Montserrat" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">2015</tspan></text>
+      <text id="_2016" data-name="2016" transform="translate(180.827 242.351)" fill="#707070" font-size="6" font-family="Montserrat-Medium, Montserrat" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">2016</tspan></text>
+      <text id="_40-3" data-name="40" transform="translate(50.066 164.897)" fill="#707070" font-size="8" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">40</tspan></text>
+      <text id="_60-3" data-name="60" transform="translate(50.066 132.463)" fill="#707070" font-size="8" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">60</tspan></text>
+      <text id="_80" data-name="80" transform="translate(50.066 102.122)" fill="#707070" font-size="8" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">80</tspan></text>
+      <text id="_100" data-name="100" transform="translate(50.066 70.734)" fill="#707070" font-size="8" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">100</tspan></text>
+      <g id="Group_82" data-name="Group 82" transform="translate(145.562 277.618)">
+        <text id="Total" transform="translate(17.257 9)" fill="#707070" font-size="9" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">Total</tspan></text>
+        <text id="To_do" data-name="To do" transform="translate(87.787 9)" fill="#707070" font-size="9" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">To do</tspan></text>
+        <text id="Complted" transform="translate(161.319 9)" fill="#707070" font-size="9" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">Complted</tspan></text>
+        <text id="Overdue" transform="translate(257.36 8)" fill="#707070" font-size="8" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">Overdue</tspan></text>
+        <circle id="Ellipse_85" data-name="Ellipse 85" cx="4.127" cy="4.127" r="4.127" transform="translate(0 0.752)" fill="#4791ff"/>
+        <ellipse id="Ellipse_86" data-name="Ellipse 86" cx="4.502" cy="4.127" rx="4.502" ry="4.127" transform="translate(70.53 2.252)" fill="#ffd950"/>
+        <circle id="Ellipse_87" data-name="Ellipse 87" cx="4.127" cy="4.127" r="4.127" transform="translate(144.812 2.252)" fill="#02bc77"/>
+        <circle id="Ellipse_88" data-name="Ellipse 88" cx="4.127" cy="4.127" r="4.127" transform="translate(240.102 2.252)" fill="#ff2366"/>
+      </g>
+      <line id="Line_104" data-name="Line 104" x2="435.936" transform="translate(27.012 42.018)" fill="none" stroke="#efefef" stroke-width="1"/>
+      <line id="Line_107" data-name="Line 107" x2="435.936" transform="translate(27.012 261.862)" fill="none" stroke="#efefef" stroke-width="1"/>
+      <g transform="matrix(1, 0, 0, 1, -817.48, -831.29)" filter="url(#Rectangle_312)">
+        <rect id="Rectangle_312-2" data-name="Rectangle 312" width="435.936" height="304.63" rx="10" transform="translate(817.48 831.29)" fill="#fff"/>
+      </g>
+      <text id="Tasks-2" data-name="Tasks" transform="translate(15.757 23.757)" fill="#707070" font-size="8" font-family="Montserrat-Medium, Montserrat" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">Tasks</tspan></text>
+      <line id="Line_116" data-name="Line 116" y2="162.308" transform="translate(45.059 67.316)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      <line id="Line_117" data-name="Line 117" x2="368.333" transform="translate(45.059 229.147)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      <line id="Line_118" data-name="Line 118" x2="368.333" transform="translate(45.059 196.797)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      <line id="Line_119" data-name="Line 119" x2="368.333" transform="translate(45.059 132.096)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      <line id="Line_120" data-name="Line 120" x2="368.333" transform="translate(45.059 67.396)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      <line id="Line_121" data-name="Line 121" x2="368.333" transform="translate(45.059 164.446)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      <line id="Line_122" data-name="Line 122" x2="368.333" transform="translate(45.059 99.746)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      <rect id="Rectangle_313" data-name="Rectangle 313" width="6.16" height="80.662" transform="translate(74.713 148.656)" fill="#4791ff"/>
+      <rect id="Rectangle_314" data-name="Rectangle 314" width="6.16" height="102.228" transform="translate(144.035 127.09)" fill="#4791ff"/>
+      <rect id="Rectangle_315" data-name="Rectangle 315" width="6.16" height="119.173" transform="translate(213.357 110.145)" fill="#4791ff"/>
+      <rect id="Rectangle_316" data-name="Rectangle 316" width="6.16" height="136.889" transform="translate(279.598 92.429)" fill="#4791ff"/>
+      <rect id="Rectangle_317" data-name="Rectangle 317" width="6.16" height="159.996" transform="translate(350.46 69.321)" fill="#4791ff"/>
+      <rect id="Rectangle_318" data-name="Rectangle 318" width="6.16" height="16.175" transform="translate(85.87 213.357)" fill="#ff2366"/>
+      <rect id="Rectangle_319" data-name="Rectangle 319" width="6.16" height="28.499" transform="translate(155.192 201.033)" fill="#ff2366"/>
+      <rect id="Rectangle_320" data-name="Rectangle 320" width="6.16" height="33.12" transform="translate(224.514 196.411)" fill="#ff2366"/>
+      <rect id="Rectangle_321" data-name="Rectangle 321" width="6.16" height="28.499" transform="translate(290.754 201.033)" fill="#ff2366"/>
+      <rect id="Rectangle_322" data-name="Rectangle 322" width="6.16" height="17.715" transform="translate(361.617 211.816)" fill="#ff2366"/>
+      <rect id="Rectangle_323" data-name="Rectangle 323" width="6.16" height="26.958" transform="translate(96.989 202.572)" fill="#02bc77"/>
+      <rect id="Rectangle_324" data-name="Rectangle 324" width="6.16" height="80.875" transform="translate(166.31 148.655)" fill="#02bc77"/>
+      <rect id="Rectangle_325" data-name="Rectangle 325" width="6.16" height="92.429" transform="translate(235.632 137.102)" fill="#02bc77"/>
+      <rect id="Rectangle_326" data-name="Rectangle 326" width="6.16" height="109.374" transform="translate(301.873 120.156)" fill="#02bc77"/>
+      <rect id="Rectangle_327" data-name="Rectangle 327" width="6.16" height="137.103" transform="translate(372.735 92.427)" fill="#02bc77"/>
+      <rect id="Rectangle_328" data-name="Rectangle 328" width="6.16" height="46.214" transform="translate(107.931 183.318)" fill="#ffd950"/>
+      <rect id="Rectangle_329" data-name="Rectangle 329" width="6.16" height="23.107" transform="translate(177.253 206.424)" fill="#ffd950"/>
+      <rect id="Rectangle_330" data-name="Rectangle 330" width="6.16" height="33.12" transform="translate(246.575 196.411)" fill="#ffd950"/>
+      <rect id="Rectangle_331" data-name="Rectangle 331" width="6.16" height="53.147" transform="translate(312.815 176.385)" fill="#ffd950"/>
+      <rect id="Rectangle_332" data-name="Rectangle 332" width="6.16" height="26.958" transform="translate(383.678 202.574)" fill="#ffd950"/>
+      <text id="_0-4" data-name="0" transform="translate(27.729 231.27)" fill="#707070" font-size="8" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">0</tspan></text>
+      <text id="_20-4" data-name="20" transform="translate(23.26 196.58)" fill="#707070" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">20</tspan></text>
+      <text id="_2017-2" data-name="2017" transform="translate(223.595 242.351)" fill="#707070" font-size="6" font-family="Montserrat-Medium, Montserrat" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">2017</tspan></text>
+      <text id="_2018-2" data-name="2018" transform="translate(291.875 242.351)" fill="#707070" font-size="6" font-family="Montserrat-Medium, Montserrat" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">2018</tspan></text>
+      <text id="_2019-2" data-name="2019" transform="translate(360.904 242.351)" fill="#707070" font-size="6" font-family="Montserrat-Medium, Montserrat" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">2019</tspan></text>
+      <text id="_2015-2" data-name="2015" transform="translate(84.786 242.351)" fill="#707070" font-size="6" font-family="Montserrat-Medium, Montserrat" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">2015</tspan></text>
+      <text id="_2016-2" data-name="2016" transform="translate(153.816 242.351)" fill="#707070" font-size="6" font-family="Montserrat-Medium, Montserrat" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">2016</tspan></text>
+      <text id="_40-4" data-name="40" transform="translate(23.108 164.897)" fill="#707070" font-size="8" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">40</tspan></text>
+      <text id="_60-4" data-name="60" transform="translate(23.108 132.463)" fill="#707070" font-size="8" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">60</tspan></text>
+      <text id="_80-2" data-name="80" transform="translate(23.108 102.122)" fill="#707070" font-size="8" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">80</tspan></text>
+      <text id="_100-2" data-name="100" transform="translate(23.108 70.734)" fill="#707070" font-size="8" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">100</tspan></text>
+      <g id="Group_97" data-name="Group 97" transform="translate(118.551 277.618)">
+        <text id="Total-2" data-name="Total" transform="translate(17.257 9)" fill="#707070" font-size="9" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">Total</tspan></text>
+        <text id="To_do-2" data-name="To do" transform="translate(87.787 9)" fill="#707070" font-size="9" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">To do</tspan></text>
+        <text id="Complted-2" data-name="Complted" transform="translate(162.069 9)" fill="#707070" font-size="9" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">Complted</tspan></text>
+        <text id="Overdue-2" data-name="Overdue" transform="translate(257.36 8)" fill="#707070" font-size="8" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">Overdue</tspan></text>
+        <circle id="Ellipse_85-2" data-name="Ellipse 85" cx="4.127" cy="4.127" r="4.127" transform="translate(0 0.752)" fill="#4791ff"/>
+        <ellipse id="Ellipse_86-2" data-name="Ellipse 86" cx="4.502" cy="4.127" rx="4.502" ry="4.127" transform="translate(70.53 2.252)" fill="#ffd950"/>
+        <circle id="Ellipse_87-2" data-name="Ellipse 87" cx="4.127" cy="4.127" r="4.127" transform="translate(144.812 2.252)" fill="#02bc77"/>
+        <ellipse id="Ellipse_88-2" data-name="Ellipse 88" cx="4.502" cy="4.127" rx="4.502" ry="4.127" transform="translate(240.102 2.252)" fill="#ff2366"/>
+      </g>
+      <line id="Line_123" data-name="Line 123" x2="435.936" transform="translate(0 42.018)" fill="none" stroke="#efefef" stroke-width="1"/>
+      <line id="Line_124" data-name="Line 124" x2="435.936" transform="translate(0 261.862)" fill="none" stroke="#efefef" stroke-width="1"/>
+    </g>
+    <g id="Group_99" data-name="Group 99" transform="translate(-15.588 1470)">
+      <g id="Group_94" data-name="Group 94">
+        <g id="Button" transform="translate(31.205 113.298)">
+          <path id="Rectangle_29" data-name="Rectangle 29" d="M1.5,0H5.252V65.278H1.5a1.5,1.5,0,0,1-1.5-1.5V1.5A1.5,1.5,0,0,1,1.5,0Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+          <path id="Rectangle_104" data-name="Rectangle 104" d="M0,0H3.752a1.5,1.5,0,0,1,1.5,1.5V63.777a1.5,1.5,0,0,1-1.5,1.5H0Z" transform="translate(5.252 65.278) rotate(180)" fill="url(#linear-gradient-2)"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -148.5, -148.5)" filter="url(#Case)">
+          <path id="Case-2" data-name="Case" d="M61.021,0h330.8a61.021,61.021,0,0,1,61.021,61.02V859.642a61.021,61.021,0,0,1-61.02,61.021H61.021A61.021,61.021,0,0,1,0,859.642V61.021A61.021,61.021,0,0,1,61.021,0Z" transform="translate(148.5 148.5)" fill="#fff"/>
+        </g>
+        <path id="Bezel" d="M50.315,0H385.392a50.315,50.315,0,0,1,50.315,50.315v802.9a50.315,50.315,0,0,1-50.315,50.315H50.315A50.315,50.315,0,0,1,0,853.219V50.315A50.315,50.315,0,0,1,50.315,0Z" transform="translate(8.564 8.564)" fill="#efefef"/>
+        <path id="Home" d="M2.676,0H136.493a2.676,2.676,0,1,1,0,5.353H2.676A2.676,2.676,0,1,1,2.676,0Z" transform="translate(156.037 35.204)" fill="#e2e2e2"/>
+        <g id="Component_1_1" data-name="Component 1 – 1" transform="translate(100.984 813.346)">
+          <path id="Path_379-3" data-name="Path 379" d="M33.956,0H216.383a34.556,34.556,0,0,1,10.444,1.636,33.961,33.961,0,0,1-10.444,66.274H33.956A33.956,33.956,0,1,1,33.956,0Z" transform="translate(0 0.001)" fill="#5798ff"/>
+          <text id="Get_Started" data-name="Get Started" transform="translate(37.516 43.506)" fill="#fff" font-size="29" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Get Started</tspan></text>
+        </g>
+      </g>
+      <g id="Group_95" data-name="Group 95" transform="translate(53.714 237.102)">
+        <rect id="Rectangle_273" data-name="Rectangle 273" width="345.147" height="421.68" rx="33" transform="translate(0 0)" fill="#fff"/>
+        <text id="Bathing_Shampoo" data-name="Bathing Shampoo" transform="translate(37.516 126.548)" font-size="14" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Bathing Shampoo</tspan></text>
+        <text id="Bathing_Shampoo-2" data-name="Bathing Shampoo" transform="translate(37.516 198.579)" font-size="14" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Bathing Shampoo</tspan></text>
+        <text id="Running_Shoes" data-name="Running Shoes" transform="translate(37.516 270.609)" font-size="14" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Running Shoes</tspan></text>
+        <text id="Toilet_papers" data-name="Toilet papers" transform="translate(37.516 342.639)" font-size="14" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Toilet papers</tspan></text>
+        <rect id="Rectangle_282" data-name="Rectangle 282" width="258.11" height="6.003" rx="3.001" transform="translate(37.516 141.81)" fill="#ebebeb"/>
+        <rect id="Rectangle_280" data-name="Rectangle 280" width="270.115" height="3.752" rx="1.876" transform="translate(37.516 215.342)" fill="#ebebeb"/>
+        <rect id="Rectangle_278" data-name="Rectangle 278" width="270.115" height="3.752" rx="1.876" transform="translate(37.516 287.371)" fill="#ebebeb"/>
+        <rect id="Rectangle_274" data-name="Rectangle 274" width="270.115" height="2.251" rx="1.125" transform="translate(37.516 360.902)" fill="#ebebeb"/>
+        <path id="Rectangle_283" data-name="Rectangle 283" d="M3,0H254.358V6H3A3,3,0,0,1,0,3H0A3,3,0,0,1,3,0Z" transform="translate(37.516 141.81)" fill="#4791ff"/>
+        <path id="Rectangle_281" data-name="Rectangle 281" d="M1.876,0H202.586V3.752H1.876A1.876,1.876,0,0,1,0,1.876H0A1.876,1.876,0,0,1,1.876,0Z" transform="translate(37.516 215.342)" fill="#4791ff"/>
+        <path id="Rectangle_279" data-name="Rectangle 279" d="M1.876,0H157.567V3.752H1.876A1.876,1.876,0,0,1,0,1.876H0A1.876,1.876,0,0,1,1.876,0Z" transform="translate(37.516 287.371)" fill="#4791ff"/>
+        <path id="Rectangle_276" data-name="Rectangle 276" d="M1.125,0H111.8V2.251H1.125A1.125,1.125,0,0,1,0,1.125H0A1.125,1.125,0,0,1,1.125,0Z" transform="translate(37.516 360.902)" fill="#4791ff"/>
+        <text id="Bathing_Shampoo-3" data-name="Bathing Shampoo" transform="translate(37.516 126.548)" font-size="14" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Bathing Shampoo</tspan></text>
+        <text id="Bathing_Shampoo-4" data-name="Bathing Shampoo" transform="translate(37.516 198.579)" font-size="14" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Bathing Shampoo</tspan></text>
+        <text id="Running_Shoes-2" data-name="Running Shoes" transform="translate(37.516 270.609)" font-size="14" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Running Shoes</tspan></text>
+        <text id="Toilet_papers-2" data-name="Toilet papers" transform="translate(37.516 342.639)" font-size="14" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Toilet papers</tspan></text>
+        <rect id="Rectangle_304" data-name="Rectangle 304" width="270.115" height="6.003" rx="3.001" transform="translate(37.516 141.81)" fill="#ebebeb"/>
+        <rect id="Rectangle_305" data-name="Rectangle 305" width="270.115" height="3.752" rx="1.876" transform="translate(37.516 215.342)" fill="#ebebeb"/>
+        <rect id="Rectangle_306" data-name="Rectangle 306" width="270.115" height="3.752" rx="1.876" transform="translate(37.516 287.371)" fill="#ebebeb"/>
+        <rect id="Rectangle_307" data-name="Rectangle 307" width="270.115" height="2.251" rx="1.125" transform="translate(37.516 360.902)" fill="#ebebeb"/>
+        <path id="Rectangle_308" data-name="Rectangle 308" d="M3,0H254.358V6H3A3,3,0,0,1,0,3H0A3,3,0,0,1,3,0Z" transform="translate(37.516 141.81)" fill="#4791ff"/>
+        <path id="Rectangle_309" data-name="Rectangle 309" d="M1.876,0H202.586V3.752H1.876A1.876,1.876,0,0,1,0,1.876H0A1.876,1.876,0,0,1,1.876,0Z" transform="translate(37.516 215.342)" fill="#4791ff"/>
+        <path id="Rectangle_310" data-name="Rectangle 310" d="M1.876,0H157.567V3.752H1.876A1.876,1.876,0,0,1,0,1.876H0A1.876,1.876,0,0,1,1.876,0Z" transform="translate(37.516 287.371)" fill="#4791ff"/>
+        <line id="Line_109" data-name="Line 109" x2="311.383" transform="translate(33.764 74.282)" fill="none" stroke="#efefef" stroke-width="1"/>
+        <text id="Best_Sellers" data-name="Best Sellers" transform="translate(40.517 68.524)" fill="#707070" font-size="13" font-family="Montserrat-Medium, Montserrat" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">Best Sellers</tspan></text>
+        <path id="Rectangle_311" data-name="Rectangle 311" d="M1.125,0H111.8V2.251H1.125A1.125,1.125,0,0,1,0,1.125H0A1.125,1.125,0,0,1,1.125,0Z" transform="translate(37.516 360.902)" fill="#4791ff"/>
+      </g>
+    </g>
+  </g>
+</svg>
