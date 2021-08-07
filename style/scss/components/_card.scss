@@ -33,6 +33,7 @@
       justify-content: space-around;
 
       h4 {
+        color: #408af8;
         font-size: 3rem;
         margin: 3rem;
       }
@@ -92,15 +93,16 @@
   }
 }
 
-.card__price-value.best ::after {
-  content: 'Recommend!!';
+.best::after {
+  content: 'Recommend!';
   position: absolute;
-  top: -5%;
-  right: -20%;
-  width: 100px;
-  height: 20px;
-  color: #ffc641;
+  top: 25%;
+  right: 20px;
+  width: 120px;
+  height: 30px;
+  color: #fafafa;
   background-color: #ffc641;
   font-size: 1.5rem;
   border-radius: 50px;
+  padding: 2px 4px;
 }

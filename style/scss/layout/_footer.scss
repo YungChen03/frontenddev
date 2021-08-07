@@ -1,3 +1,20 @@
+.footer {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #eee;
+  &_nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    a {
+      color: #343434;
+    }
+  }
+  &_copyright {
+    padding: 10px;
+    color: #343434;
+  }
+}
 /*extra small tablet */
 @media screen and (max-width: 620px) {
 }

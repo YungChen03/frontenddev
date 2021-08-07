@@ -21,3 +21,31 @@
   margin: 15px 0;
   grid-column: 2/12;
 }
+
+.section-signin {
+  padding: 10px 20px;
+  &_txt {
+    margin-bottom: 20px;
+    & h2 {
+      color: #3ecf8e;
+    }
+  }
+  &_form {
+    transform: translateX(-60px);
+  }
+}
+/*extra small tablet */
+@media screen and (max-width: 620px) {
+}
+/* small tablet */
+@media screen and (min-width: 620px) {
+}
+/* large tablet */
+@media screen and (min-width: 960px) {
+}
+/*  desktop styles */
+@media screen and (min-width: 1260px) {
+}
+/* large desktop styles */
+@media screen and (min-width: 1560px) {
+}
