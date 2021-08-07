@@ -1,6 +1,6 @@
 .landing-page {
   background: #343434;
-  height: 95vh;
+  height: 96vh;
 }
 .header {
   &_bg {
@@ -39,41 +39,44 @@
 }
 .links {
   position: absolute;
-  width: 30%;
-  right: -30%;
-  top: 8%;
-  height: 95vh;
+  width: 100%;
+  left: -100%;
+  top: 8vh;
+  height: 92vh;
   z-index: 2;
-  background-color: #fff;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;
-  transform-origin: right;
-  transition: 0.6s;
-  text-align: center;
+  background-color: rgba(248, 248, 248, 0.72);
+  transition: 0.4s;
+
+  ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+  }
   a {
-    margin: 15px 0;
+    margin: 20px 0;
     text-decoration: none;
     color: rgb(0, 0, 0);
     display: inline-block;
     font-size: 1.6rem;
     font-weight: 500;
     letter-spacing: 1px;
-    transition: 0.3s;
-    opacity: 1;
+    transition: 0.2s;
+    opacity: 0;
     transform: translateY(10px);
-    animation: hide 0.5s forwards ease;
     :hover {
       color: #408af8;
     }
   }
 }
+
 .links.active {
-  transform: translateX(-100%);
+  transform: translateX(100%);
 }
 .links.active a {
-  animation: appear 0.5s forwards ease var(--i);
+  animation: appear 1s forwards ease var(--i);
 }
 @keyframes appear {
   from {
@@ -109,37 +112,77 @@
       height: 95%;
       left: -90%;
     }
-    &_text-main {
-      z-index: 5;
-      font-size: 4.2rem;
-      grid-column: 2/10;
-      margin-top: 50px;
-    }
     &_text-sub {
-      margin-top: 8px;
-      z-index: 5;
+      margin-top: 26px;
       font-size: 2.4rem;
-      grid-column: 2/6;
+      grid-column: 2/5;
+      text-align: center;
     }
     .btn {
-      background-color: $color-primary;
-      font-size: 1.6rem;
-      text-align: center;
-      grid-column: 2/7;
-      position: absolute;
-      top: 85%;
-      left: 30%;
-      z-index: 5;
+      top: 60%;
+      left: 12%;
     }
   }
 }
 
 /* large tablet */
 @media screen and (min-width: 960px) {
+  .header {
+    &_bg {
+      height: 95%;
+      left: -75%;
+    }
+    &_text-main {
+      grid-column: 2/8;
+      margin-top: 100px;
+    }
+    &_text-sub {
+      margin-top: 50px;
+
+      font-size: 3rem;
+      grid-column: 2/5;
+    }
+    .btn {
+      top: 75%;
+      left: 14%;
+    }
+  }
 }
 /*  desktop styles */
-@media screen and (min-width: 1260px) {
+@media screen and (min-width: 1200px) {
+  .header {
+    &_text-main {
+      font-size: 4.2rem;
+      grid-column: 2/6;
+    }
+    &_text-sub {
+      font-size: 3.6rem;
+    }
+    .btn {
+      top: 725;
+      left: 15%;
+    }
+  }
 }
 /* large desktop styles */
 @media screen and (min-width: 1560px) {
+  .header {
+    &_text-main {
+      font-size: 5.6rem;
+    }
+    &_text-sub {
+      margin-top: 70px;
+      font-size: 3.6rem;
+    }
+    &_bg {
+      height: 108%;
+      width: 300%;
+      top: -5%;
+      left: -105%;
+    }
+    .btn {
+      top: 80%;
+      left: 16%;
+    }
+  }
 }

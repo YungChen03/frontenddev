@@ -1,6 +1,6 @@
 .section-product {
   background: white;
-
+  text-align: right;
   & h2 {
     font-size: 6rem;
     text-transform: uppercase;
@@ -10,10 +10,9 @@
 .card__price-value {
   color: white;
 }
-
 .grid {
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
+  grid-template-columns: repeat(13, 1fr);
 }
 .card_1,
 .card_2,
@@ -26,26 +25,55 @@
   padding: 10px 20px;
   &_txt {
     margin-bottom: 20px;
+    font-size: 1.8rem;
     & h2 {
       color: #3ecf8e;
+      margin-bottom: 1rem;
+    }
+    p {
+      margin-bottom: 5rem;
     }
   }
-  &_form {
-    transform: translateX(-60px);
-  }
 }
-/*extra small tablet */
-@media screen and (max-width: 620px) {
-}
+
 /* small tablet */
 @media screen and (min-width: 620px) {
+  .card_1,
+  .card_2,
+  .card_3 {
+    grid-column: 4/11;
+  }
+  .section-signin_form {
+    margin: 20px auto;
+  }
 }
 /* large tablet */
 @media screen and (min-width: 960px) {
+  .card_1 {
+    grid-column: 2/5;
+  }
+  .card_2 {
+    grid-column: 6/9;
+  }
+  .card_3 {
+    grid-column: 10/13;
+  }
 }
 /*  desktop styles */
 @media screen and (min-width: 1260px) {
+  .section-signin {
+    &_txt {
+      font-size: 2.6rem;
+    }
+  }
 }
 /* large desktop styles */
 @media screen and (min-width: 1560px) {
+  .section-signin {
+    padding: 10px 20px;
+    &_txt {
+      margin: 50px;
+      font-size: 3.2rem;
+    }
+  }
 }
