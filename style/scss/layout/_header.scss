@@ -14,25 +14,111 @@
   &_text {
     color: white;
   }
+  &_text-main {
+    z-index: 5;
+    font-size: 3.6rem;
+    grid-column: 2/10;
+    margin-top: 50px;
+  }
+  &_text-sub {
+    margin-top: 8px;
+    z-index: 5;
+    font-size: 1.8rem;
+    grid-column: 2/6;
+  }
+  .btn {
+    background-color: $color-primary;
+    font-size: 1.6rem;
+    text-align: center;
+    grid-column: 2/7;
+    position: absolute;
+    top: 85%;
+    left: 30%;
+    z-index: 10;
+  }
+}
+.links {
+  position: absolute;
+  width: 30%;
+  right: -30%;
+  top: 8%;
+  height: 95vh;
+  z-index: 2;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  transform-origin: right;
+  transition: 0.6s;
+  text-align: center;
+  a {
+    margin: 15px 0;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    font-size: 1.6rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+    transition: 0.3s;
+    opacity: 1;
+    transform: translateY(10px);
+    animation: hide 0.5s forwards ease;
+    :hover {
+      color: #408af8;
+    }
+  }
+}
+.links.active {
+  transform: translateX(-100%);
+}
+.links.active a {
+  animation: appear 0.5s forwards ease var(--i);
+}
+@keyframes appear {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0px);
+  }
 }
 
-/*extra small tablet */
-@media screen and (max-width: 620px) {
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(12, 1fr);
+@keyframes hide {
+  from {
+    opacity: 1;
+    transform: translateY(0px);
   }
+  to {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+}
+
+/* small tablet */
+@media screen and (min-width: 620px) {
   .header {
+    &_bg {
+      height: 95%;
+      left: -90%;
+    }
     &_text-main {
       z-index: 5;
-      font-size: 3.6rem;
+      font-size: 4.2rem;
       grid-column: 2/10;
       margin-top: 50px;
     }
     &_text-sub {
       margin-top: 8px;
       z-index: 5;
-      font-size: 1.8rem;
+      font-size: 2.4rem;
       grid-column: 2/6;
     }
     .btn {
@@ -43,17 +129,11 @@
       position: absolute;
       top: 85%;
       left: 30%;
+      z-index: 5;
     }
   }
-  .btn {
-    font-size: 2rem;
-    grid-column: 2/6;
-    z-index: 5;
-  }
 }
-/* small tablet */
-@media screen and (min-width: 620px) {
-}
+
 /* large tablet */
 @media screen and (min-width: 960px) {
 }

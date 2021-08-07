@@ -78,9 +78,16 @@ li {
 .menu img {
   width: 100%;
   height: 3vh;
+  cursor: pointer;
 }
 
-/*extra small tablet */
+.rotate {
+  -webkit-transition: all 0.1s;
+  transition: all 0.1s;
+  -webkit-transform: rotate(270deg);
+          transform: rotate(270deg);
+}
+
 /* small tablet */
 /* large tablet */
 /*  desktop styles */
@@ -107,17 +114,164 @@ nav {
   color: white;
 }
 
-/*extra small tablet */
-@media screen and (max-width: 620px) {
-  .grid {
-    display: -ms-grid;
-    display: grid;
-    -ms-grid-columns: (1fr)[12];
-        grid-template-columns: repeat(12, 1fr);
+.header_text-main {
+  z-index: 5;
+  font-size: 3.6rem;
+  -ms-grid-column: 2;
+  -ms-grid-column-span: 8;
+  grid-column: 2/10;
+  margin-top: 50px;
+}
+
+.header_text-sub {
+  margin-top: 8px;
+  z-index: 5;
+  font-size: 1.8rem;
+  -ms-grid-column: 2;
+  -ms-grid-column-span: 4;
+  grid-column: 2/6;
+}
+
+.header .btn {
+  background-color: #408af8;
+  font-size: 1.6rem;
+  text-align: center;
+  -ms-grid-column: 2;
+  -ms-grid-column-span: 5;
+  grid-column: 2/7;
+  position: absolute;
+  top: 85%;
+  left: 30%;
+  z-index: 10;
+}
+
+.links {
+  position: absolute;
+  width: 30%;
+  right: -30%;
+  top: 8%;
+  height: 95vh;
+  z-index: 2;
+  background-color: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-transform-origin: right;
+          transform-origin: right;
+  -webkit-transition: 0.6s;
+  transition: 0.6s;
+  text-align: center;
+}
+
+.links a {
+  margin: 15px 0;
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  font-size: 1.6rem;
+  font-weight: 500;
+  letter-spacing: 1px;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  opacity: 1;
+  -webkit-transform: translateY(10px);
+          transform: translateY(10px);
+  -webkit-animation: hide 0.5s forwards ease;
+          animation: hide 0.5s forwards ease;
+}
+
+.links a :hover {
+  color: #408af8;
+}
+
+.links.active {
+  -webkit-transform: translateX(-100%);
+          transform: translateX(-100%);
+}
+
+.links.active a {
+  -webkit-animation: appear 0.5s forwards ease var(--i);
+          animation: appear 0.5s forwards ease var(--i);
+}
+
+@-webkit-keyframes appear {
+  from {
+    opacity: 0;
+    -webkit-transform: translateY(20px);
+            transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
+  }
+}
+
+@keyframes appear {
+  from {
+    opacity: 0;
+    -webkit-transform: translateY(20px);
+            transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
+  }
+}
+
+@-webkit-keyframes hide {
+  from {
+    opacity: 1;
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
+  }
+  to {
+    opacity: 0;
+    -webkit-transform: translateY(20px);
+            transform: translateY(20px);
+  }
+}
+
+@keyframes hide {
+  from {
+    opacity: 1;
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
+  }
+  to {
+    opacity: 0;
+    -webkit-transform: translateY(20px);
+            transform: translateY(20px);
+  }
+}
+
+.grid {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[12];
+      grid-template-columns: repeat(12, 1fr);
+}
+
+/* small tablet */
+@media screen and (min-width: 620px) {
+  .header_bg {
+    height: 95%;
+    left: -90%;
   }
   .header_text-main {
     z-index: 5;
-    font-size: 3.6rem;
+    font-size: 4.2rem;
     -ms-grid-column: 2;
     -ms-grid-column-span: 8;
     grid-column: 2/10;
@@ -126,7 +280,7 @@ nav {
   .header_text-sub {
     margin-top: 8px;
     z-index: 5;
-    font-size: 1.8rem;
+    font-size: 2.4rem;
     -ms-grid-column: 2;
     -ms-grid-column-span: 4;
     grid-column: 2/6;
@@ -141,17 +295,10 @@ nav {
     position: absolute;
     top: 85%;
     left: 30%;
-  }
-  .btn {
-    font-size: 2rem;
-    -ms-grid-column: 2;
-    -ms-grid-column-span: 4;
-    grid-column: 2/6;
     z-index: 5;
   }
 }
 
-/* small tablet */
 /* large tablet */
 /*  desktop styles */
 /* large desktop styles */
