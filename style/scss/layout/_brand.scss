@@ -1,0 +1,52 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+}
+
+.section-brand_slogan-box1 {
+  h2 {
+    text-transform: uppercase;
+    margin: 20px;
+    font-size: 28px;
+  }
+  img {
+    width: 150%;
+    height: 40vh;
+    overflow: hidden;
+  }
+}
+
+.section-brand {
+  &_slogan-box2--1,
+  &_slogan-box2--2,
+  &_slogan-box2--3 {
+    color: cornflowerblue;
+    font-size: 2rem;
+    grid-column: 2/12;
+    margin-bottom: 10px;
+  }
+  p {
+    color: rgb(66, 66, 66);
+    font-size: 1.2rem;
+  }
+}
+.section-support {
+  background-color: cornflowerblue;
+  height: 100vh;
+  margin-top: 32px;
+  position: relative;
+  z-index: 5;
+  & img {
+    height: 60vh;
+    position: absolute;
+    top: 40%;
+    left: -10%;
+  }
+}
+.support-topic {
+  z-index: 1;
+  font-size: 5.6rem;
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
+  padding: 1rem;
+}

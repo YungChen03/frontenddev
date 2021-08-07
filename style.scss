@@ -1,0 +1,12 @@
+.welcome-text {
+  color: white;
+  & h2 {
+    padding: 10px;
+    grid-column: 2/7;
+    z-index: 5;
+  }
+  & p {
+    grid-column: 2/7;
+    z-index: 5;
+  }
+}

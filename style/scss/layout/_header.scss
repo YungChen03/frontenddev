@@ -1,0 +1,65 @@
+.landing-page {
+  background: #343434;
+  height: 95vh;
+}
+.header {
+  &_bg {
+    overflow: hidden;
+    height: 100%;
+    position: absolute;
+    width: 250%;
+    top: 9%;
+    left: -110%;
+  }
+  &_text {
+    color: white;
+  }
+}
+
+/*extra small tablet */
+@media screen and (max-width: 620px) {
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+  }
+  .header {
+    &_text-main {
+      z-index: 5;
+      font-size: 3.6rem;
+      grid-column: 2/10;
+      margin-top: 50px;
+    }
+    &_text-sub {
+      margin-top: 8px;
+      z-index: 5;
+      font-size: 1.8rem;
+      grid-column: 2/6;
+    }
+    .btn {
+      background-color: $color-primary;
+      font-size: 1.6rem;
+      text-align: center;
+      grid-column: 2/7;
+      position: absolute;
+      top: 85%;
+      left: 30%;
+    }
+  }
+  .btn {
+    font-size: 2rem;
+    grid-column: 2/6;
+    z-index: 5;
+  }
+}
+/* small tablet */
+@media screen and (min-width: 620px) {
+}
+/* large tablet */
+@media screen and (min-width: 960px) {
+}
+/*  desktop styles */
+@media screen and (min-width: 1260px) {
+}
+/* large desktop styles */
+@media screen and (min-width: 1560px) {
+}

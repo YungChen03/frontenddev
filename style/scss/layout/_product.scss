@@ -1,0 +1,23 @@
+.section-product {
+  background: white;
+
+  & h2 {
+    font-size: 6rem;
+    text-transform: uppercase;
+  }
+}
+.card__price-only,
+.card__price-value {
+  color: white;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+}
+.card_1,
+.card_2,
+.card_3 {
+  margin: 15px 0;
+  grid-column: 2/12;
+}

@@ -1,0 +1,55 @@
+.grid {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[12];
+      grid-template-columns: repeat(12, 1fr);
+}
+
+.section-brand_slogan-box1 h2 {
+  text-transform: uppercase;
+  margin: 20px;
+  font-size: 28px;
+}
+
+.section-brand_slogan-box1 img {
+  width: 150%;
+  height: 40vh;
+  overflow: hidden;
+}
+
+.section-brand_slogan-box2--1, .section-brand_slogan-box2--2, .section-brand_slogan-box2--3 {
+  color: cornflowerblue;
+  font-size: 2rem;
+  -ms-grid-column: 2;
+  -ms-grid-column-span: 10;
+  grid-column: 2/12;
+  margin-bottom: 10px;
+}
+
+.section-brand p {
+  color: #424242;
+  font-size: 1.2rem;
+}
+
+.section-support {
+  height: 100vh;
+  margin-top: 32px;
+  position: relative;
+  z-index: 5;
+}
+
+.section-support img {
+  position: absolute;
+  height: 90vh;
+  top: 0;
+  left: 0;
+}
+
+.support-topic {
+  z-index: 1;
+  font-size: 2.6rem;
+  text-transform: uppercase;
+  color: #aaaaaa;
+  padding: 1rem;
+}
+/*# sourceMappingURL=brand.css.map */

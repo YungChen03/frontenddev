@@ -1,0 +1,35 @@
+.site-nav {
+  background: black;
+  height: 8vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  z-index: 100;
+  & li {
+    display: none;
+  }
+}
+.menu img {
+  width: 100%;
+  height: 3vh;
+}
+
+/*extra small tablet */
+@media screen and (max-width: 620px) {
+}
+/* small tablet */
+@media screen and (min-width: 620px) {
+}
+/* large tablet */
+@media screen and (min-width: 960px) {
+}
+/*  desktop styles */
+@media screen and (min-width: 1260px) {
+}
+/* large desktop styles */
+@media screen and (min-width: 1560px) {
+}
+
+nav {
+  background: black;
+}
