@@ -960,19 +960,22 @@ a.active {
 /* large tablet */
 @media screen and (min-width: 960px) {
   .card_1 {
-    -ms-grid-column: 2;
-    -ms-grid-column-span: 3;
-    grid-column: 2/5;
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 4;
+    grid-column: 1/5;
+    margin: 5px 20px;
   }
   .card_2 {
-    -ms-grid-column: 6;
-    -ms-grid-column-span: 3;
-    grid-column: 6/9;
+    -ms-grid-column: 5;
+    -ms-grid-column-span: 4;
+    grid-column: 5/9;
+    margin: 5px 10px;
   }
   .card_3 {
-    -ms-grid-column: 10;
-    -ms-grid-column-span: 3;
-    grid-column: 10/13;
+    -ms-grid-column: 9;
+    -ms-grid-column-span: 4;
+    grid-column: 9/13;
+    margin: 5px 10px;
   }
   .section-signin_form {
     width: 35vw;
@@ -993,6 +996,24 @@ a.active {
 
 /* large desktop styles */
 @media screen and (min-width: 1560px) {
+  .card_1 {
+    -ms-grid-column: 3;
+    -ms-grid-column-span: 3;
+    grid-column: 3/6;
+    margin: 10px 20px;
+  }
+  .card_2 {
+    -ms-grid-column: 6;
+    -ms-grid-column-span: 3;
+    grid-column: 6/9;
+    margin: 10px 20px;
+  }
+  .card_3 {
+    -ms-grid-column: 9;
+    -ms-grid-column-span: 3;
+    grid-column: 9/12;
+    margin: 10px 20px;
+  }
   .section-signin {
     padding: 10px 20px;
   }
