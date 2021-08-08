@@ -6,6 +6,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    text-align: center;
     a {
       color: #343434;
     }
@@ -26,6 +27,11 @@
 }
 /*  desktop styles */
 @media screen and (min-width: 1260px) {
+  .footer_copyright {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+  }
 }
 /* large desktop styles */
 @media screen and (min-width: 1560px) {

@@ -915,8 +915,8 @@ a.active {
 .card_3 {
   margin: 15px 0;
   -ms-grid-column: 2;
-  -ms-grid-column-span: 10;
-  grid-column: 2/12;
+  -ms-grid-column-span: 11;
+  grid-column: 2/13;
 }
 
 .section-signin {
@@ -937,6 +937,11 @@ a.active {
   margin-bottom: 5rem;
 }
 
+.section-signin_form {
+  width: 90vw;
+  margin: 0 auto;
+}
+
 /* small tablet */
 @media screen and (min-width: 620px) {
   .card_1,
@@ -948,6 +953,7 @@ a.active {
   }
   .section-signin_form {
     margin: 20px auto;
+    width: 55vw;
   }
 }
 
@@ -968,12 +974,20 @@ a.active {
     -ms-grid-column-span: 3;
     grid-column: 10/13;
   }
+  .section-signin_form {
+    width: 35vw;
+    margin: 0 auto;
+  }
 }
 
 /*  desktop styles */
 @media screen and (min-width: 1260px) {
   .section-signin_txt {
     font-size: 2.6rem;
+  }
+  .section-signin_form {
+    width: 30vw;
+    margin: 0 auto;
   }
 }
 
@@ -985,6 +999,10 @@ a.active {
   .section-signin_txt {
     margin: 50px;
     font-size: 3.2rem;
+  }
+  .section-signin_form {
+    width: 25vw;
+    margin: 0 auto;
   }
 }
 
@@ -1003,6 +1021,7 @@ a.active {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  text-align: center;
 }
 
 .footer_nav a {
@@ -1018,5 +1037,17 @@ a.active {
 /* small tablet */
 /* large tablet */
 /*  desktop styles */
+@media screen and (min-width: 1260px) {
+  .footer_copyright {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin-top: 15px;
+  }
+}
+
 /* large desktop styles */
 /*# sourceMappingURL=main.css.map */

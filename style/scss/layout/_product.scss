@@ -18,7 +18,7 @@
 .card_2,
 .card_3 {
   margin: 15px 0;
-  grid-column: 2/12;
+  grid-column: 2/13;
 }
 
 .section-signin {
@@ -34,6 +34,10 @@
       margin-bottom: 5rem;
     }
   }
+  &_form {
+    width: 90vw;
+    margin: 0 auto;
+  }
 }
 
 /* small tablet */
@@ -45,6 +49,7 @@
   }
   .section-signin_form {
     margin: 20px auto;
+    width: 55vw;
   }
 }
 /* large tablet */
@@ -58,12 +63,22 @@
   .card_3 {
     grid-column: 10/13;
   }
+  .section-signin {
+    &_form {
+      width: 35vw;
+      margin: 0 auto;
+    }
+  }
 }
 /*  desktop styles */
 @media screen and (min-width: 1260px) {
   .section-signin {
     &_txt {
       font-size: 2.6rem;
+    }
+    &_form {
+      width: 30vw;
+      margin: 0 auto;
     }
   }
 }
@@ -74,6 +89,10 @@
     &_txt {
       margin: 50px;
       font-size: 3.2rem;
+    }
+    &_form {
+      width: 25vw;
+      margin: 0 auto;
     }
   }
 }
